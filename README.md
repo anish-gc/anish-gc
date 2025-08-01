@@ -58,7 +58,7 @@
 ## 📘 Education
 
 🎓 **B.Sc. CSIT** – Prithivi Narayan Campus, Pokhara (2018–2023)  
-📗 +2 / SLC – Siddhartha English Boarding School(2015)
+📗 +2 / SLC – Siddhartha English Boarding School(2015 -2017)
 
 ---
 
