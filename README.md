@@ -62,7 +62,7 @@
 
 ---
 
-## 📬 Get in Touch
+## 📬 Get in Touch With Me
 
 - 📧 Email: [anishgharti.chhetry@gmail.com](mailto:anishgharti.chhetry@gmail.com)  
 - 📱 Phone: +977 9821571040 , 9843953173
