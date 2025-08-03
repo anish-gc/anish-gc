@@ -65,7 +65,7 @@
 ## 📬 Get in Touch With Me
 
 - 📧 Email: [anishgharti.chhetry@gmail.com](mailto:anishgharti.chhetry@gmail.com)  
-- 📱 Phone: +977 9821571040 , 9843953173
+- 📱 Phone: +977 9821571040 , +977 9843953173,
 - 🌐 Website: [www.meroshringar.com](http://www.meroshringar.com)
 
 ---
