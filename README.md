@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Anish Gharti Chhetri (GC)
+# 👋 Hello, I'm Anish Gharti (GC)
 
 🚀 I'm a passionate **Software Engineer** based in Butwal, Nepal, with a strong focus on building scalable backend systems using **Python**, **Django**, and **Django REST Framework**. I love creating production-grade apps, solving real-world problems, and sharing what I learn.
 
